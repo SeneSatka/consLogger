@@ -8,8 +8,19 @@
   "scripts": {
     "watch": "tsc -w -p tsconfig.json  &tsc -w -p tsconfig.esm.json"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "SeneSatka",
+  "license": "MIT",
+  "keywords": [
+    "Logger",
+    "Colorized Console Logger",
+    "Color",
+    "consLogger",
+    "ColorizedLogger",
+    "Colorized",
+    "Log",
+    "Console log",
+    "Senka"
+  ],
   "devDependencies": {
     "@types/node": "^20.8.10"
   }
