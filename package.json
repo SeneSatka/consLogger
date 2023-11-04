@@ -1,0 +1,16 @@
+{
+  "name": "conslogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/cjs/index.js",
+  "types": "./src/types/index.d.ts",
+  "module": "./src/mjs/index.js",
+  "scripts": {
+    "watch": "tsc -w -p tsconfig.json  &tsc -w -p tsconfig.esm.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.10"
+  }
+}
